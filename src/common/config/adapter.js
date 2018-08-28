@@ -36,13 +36,13 @@ exports.model = {
   },
   mysql: {
     handle: mysql,
-    database: 'test',
+    database: 'miniapp_manage',
     prefix: '',
     encoding: 'utf8',
     host: '47.93.36.133',
     port: '3306',
-    user: 'z666',
-    password: '900512',
+    user: 'root',
+    password: '',
     dateStrings: true
   }
 };
